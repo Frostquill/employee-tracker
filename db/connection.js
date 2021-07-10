@@ -9,7 +9,7 @@ const db = mysql.createConnection({
       database: 'employee_manager',
       
   },
-  console.log('connection successful!')
+  console.log('Welcome to your Employee Manager!')
   );
 
  
