@@ -11,8 +11,8 @@ VALUES
 ('Salesperson', 30000, 1),
 ('Software Engineer', 80000, 2);
 
-INSERT INTO employee (first_name, last_name, role_id)
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
-('Michael', 'Ruiz', 3),
-('Cassie', 'Lineigh', 1),
-('Eddie', 'Carlton', 2);
+('Michael', 'Ruiz', 3, null),
+('Cassie', 'Lineigh', 1, 1),
+('Eddie', 'Carlton', 2, 2);
