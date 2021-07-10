@@ -22,3 +22,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 mySQL was used to allow the creation of the required database as well as the tables needed to hold the necessary information. Inquirer was used for user input as well as mysql2 and console.table to allow a visual representation of all data neccessary.
 
+
+
+https://drive.google.com/file/d/13CnvM4DyQNPHyfv9PaKFKHIMJ2gRo1IP/view - link to video
